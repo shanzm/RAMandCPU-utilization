@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2010\Projects\沛川\沛川-cpu和内存\obj\x86\Debug\沛川-cpu和内存.exe
+D:\Documents\Visual Studio 2010\Projects\沛川\沛川-cpu和内存\obj\x86\Debug\沛川-cpu和内存.pdb
+D:\Documents\Visual Studio 2010\Projects\沛川\最终版-cpu和内存\bin\Debug\沛川-cpu和内存.exe
+D:\Documents\Visual Studio 2010\Projects\沛川\最终版-cpu和内存\bin\Debug\沛川-cpu和内存.pdb
+D:\Documents\Visual Studio 2010\Projects\沛川\最终版-cpu和内存\obj\x86\Debug\沛川-cpu和内存.exe
+D:\Documents\Visual Studio 2010\Projects\沛川\最终版-cpu和内存\obj\x86\Debug\沛川-cpu和内存.pdb

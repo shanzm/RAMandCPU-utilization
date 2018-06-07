@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\沛川\CPU利用率\bin\Debug\CPU利用率.exe
+D:\Documents\Visual Studio 2010\Projects\沛川\CPU利用率\bin\Debug\CPU利用率.pdb
+D:\Documents\Visual Studio 2010\Projects\沛川\CPU利用率\obj\x86\Debug\CPU利用率.exe
+D:\Documents\Visual Studio 2010\Projects\沛川\CPU利用率\obj\x86\Debug\CPU利用率.pdb
